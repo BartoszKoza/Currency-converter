@@ -4,5 +4,8 @@
     font-family: 'Lato', sans-serif;
    background-image: url(../image/background_image.jpg);
    background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   
     
 }
