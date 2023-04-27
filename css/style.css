@@ -9,34 +9,8 @@ html {
 }
 
 
-.body{
-    margin:  auto;
-    max-width: 700px;
-    font-family: 'Lato', sans-serif;
-    background-color: rgb(255, 255, 255);
-}
-.form__fieldset{
-    background-color: #eee;
-    margin-top: 30px;
-}
-.legend{
-    text-align: center;
-    background-color: rgb(49, 163, 127);
-    padding: 10px;
-    color: #ffffff;
-    font-size: 25px;
-}
-.form__field{
-    margin: 5px;
-    background-color: #ffffff;
-}
-.button{
-    margin: auto;
-    display: block;
-    background-color: rgb(49, 163, 127);
-    color: #eee;
-    
-}
-.form__result{
-    text-align: center;
-}
+
+
+
+
+
