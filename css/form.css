@@ -1,0 +1,15 @@
+.form__fieldset{
+    background-color: #eee;
+    margin-top: 30px;
+}
+
+
+.form__field{
+    margin: 5px;
+    background-color: #ffffff;
+}
+
+
+.form__result{
+    text-align: center;
+}
