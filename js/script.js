@@ -5,13 +5,13 @@ let amountElement = document.querySelector(".js-amount");
 let currencyElement = document.querySelector(".js-currency");
 let resultElement = document.querySelector(".js-result");
 
-let rateEUR = 4.6898;
-let rateAUD = 2.9430;
-let rateCAD = 3.2014;
-let rateCZK = 0.1937;
-let rateGBP = 5.3523;
-let rateRUB = 0.0562;
-let rateUSD = 4.4015;
+let rateEUR = 4.5915;
+let rateAUD = 2.7498;
+let rateCAD = 3.0483;
+let rateCZK = 0.1954;
+let rateGBP = 5.1805;
+let rateRUB = 0.0510;
+let rateUSD = 4.1541;
 
 formElement.addEventListener("submit", (event) => {
 event.preventDefault();
