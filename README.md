@@ -23,7 +23,7 @@ https://bartoszkoza.github.io/Currency-converter/
 - RUB exchange rate = 0.0510
 - USD exchange rate = 4.1541
 
-![website__gif](https://im5.ezgif.com/tmp/ezgif-5-5b7b47ade3.gif)
+![website__gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa211MHpzZ2JkNnk5YWZobzU0ZGQ2M3d2aGJ5dXVib3F6bGV3OWZ5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1CsPcJey4e3wuTsvBT/giphy.gif)
 
 ## Technologies
 
